@@ -94,8 +94,9 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Biarritz"
       subtitle = "Childhood in southwest of france"
-      image = "tha.jpg"
-      url = "blogs/aliquam"
+      image = "projects/project1_tha"
+      url = "projects/project1" 
+   
 
     [[params.tiles.showcase]]
       title = "Montreal"
