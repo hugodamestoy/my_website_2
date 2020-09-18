@@ -37,8 +37,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "DAMESTOY"
-    subtitle = ""
+    title = "Travelling and Data"
+    subtitle = "A story of How travelling made me a datavore"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -81,7 +81,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Follow Hugo Damestoy on his journey to even"
+    title = "Travelling and gathering Data"
     subtitle = "An extraordinary trip all over the world which will make you getting out of your comfort zone."
     buttonText = "Get Started"
 
