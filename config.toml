@@ -101,13 +101,13 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Montreall"
       subtitle = "Studying in a diverse environemment"
-      image = "pic02.jpg"
+      image = "1630-010.jpg"
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
       title = "Australia"
       subtitle = "On the road to freedom"
-      image = "pic03.jpg"
+      image = "000293480029_26A.jpg"
       url = "blogs/magna"
 
     [[params.tiles.showcase]]
