@@ -5,10 +5,10 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
-image: pic10.jpg
+image: 000293480023_20A.jpg
 keywords: ""
-slug: ipsum
-title: Ipsum
+slug: Here you will find all data-cultural oriented project that I have made 
+title: Oriented data project
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+For the moment this page is empty, hut I hope to fill it soon
