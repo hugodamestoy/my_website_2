@@ -1,8 +1,8 @@
 ---
-title: "Magna"
-description: "Lorem Etiam Nullam"
-slug: "magna"
-image: pic09.jpg
+title: "Freedom"
+description: "7 months in australia, juglling between studies and adventures"
+slug: "Freedom"
+image: 000293480025_22A.jpg
 keywords: ""
 categories: 
     - ""

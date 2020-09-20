@@ -99,7 +99,7 @@ disqusShortname = ""
    
 
     [[params.tiles.showcase]]
-      title = "Montreall"
+      title = "Montreal"
       subtitle = "Studying in a diverse environemment"
       image = "1630-010.jpg"
       url = "blogs/tempus"
