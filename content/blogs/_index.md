@@ -3,7 +3,8 @@ date: "2017-10-31T22:27:21-05:00"
 draft: false
 image: pic02.jpg
 slug: blogs
-title: Lifestyle
+title: Travel and data
+
 ---
 
-My blogs about technology and lifestyle.
+My blogs about travelling and data
