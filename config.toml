@@ -139,12 +139,10 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
+    title = ""
     subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    Data is this endless fertile soil where you have plenty of space to grow trees, plants and fruits (building models, algorithms...).
+    But in order to do so, you have multiple steps to do. The first one is to plow this soil(data cleaning), then tou have to chek wich minerals is present and where in order to plant a tree at the right spot(data visualisation). You should analyse some possible solution ans use your experiences and knowledge(code, logic, creativity) in order to grow the "perfect tree" that fits your environnement. """
     buttonText = "Get Started"
     url = "blogs"
 
