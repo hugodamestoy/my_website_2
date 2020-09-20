@@ -7,6 +7,6 @@ description: Data is this endless fertile soil where you have plenty of space to
 draft: false
 image: 000293480023_20A.jpg
 keywords: ""
-slug: Travelling enhance my curiosity about data
-title: Data: this large fertile soil
+slug: "Travelling enhance my curiosity about data""
+title: "Data: this large fertile soil""
 ---
